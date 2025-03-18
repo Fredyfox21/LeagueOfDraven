@@ -1,2 +1,2 @@
 # LeagueOfDraven
-League of Legends loldel replica
+League of Legends loldle replica
